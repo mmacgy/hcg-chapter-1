@@ -1,7 +1,7 @@
 {
   "name": "hcg-chaper-1",
   "version": "1.0.0",
-  "description": "This is repository of 560651023-HCG-chapter1",
+  "description": "This is repository of 652110227-HCG-chapter1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
